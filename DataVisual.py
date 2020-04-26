@@ -5,7 +5,6 @@
 # zhuol7@student.unimelb.edu.au
 # =========================================================================
 
-
 import matplotlib.pyplot as plt
 import tensorflow as tf
 import numpy as np
