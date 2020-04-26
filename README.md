@@ -1,2 +1,2 @@
 # Fashion
-For the project of MCEN90048
+For the first demo project of MCEN90048
